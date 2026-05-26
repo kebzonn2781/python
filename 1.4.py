@@ -1,0 +1,10 @@
+imie = input ('Podaj swoje imie: ')
+nazwisko = input ('Podaj swoje nazwisko: ')
+wiek = int(input ('Ile masz lat? '))
+chleb = float(input ('Ile placiles za chleb? '))
+
+print ('Oto wprowadzone przez ciebie dane: ')
+print ('Imie: ', imie)
+print ('Nazwisko: ', nazwisko)
+print ('Wiek: ', wiek)
+print ('Chleb kosztuje: ', chleb)

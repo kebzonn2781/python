@@ -1,0 +1,5 @@
+txt1 = input('Podaj 1 tekst: ')
+txt1 += input('Podaj 2 tekst: ')
+txt1 += input('Podaj 3 tekst: ')
+txt1 += input('Podaj 4 tekst: ')
+print(txt1)
